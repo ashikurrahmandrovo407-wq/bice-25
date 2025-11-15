@@ -1,5 +1,0 @@
-[build]
-base = "bice24bup_clone_with_admin/react-tailwind"
-command = "npm run build"
-publish = "build"
-
